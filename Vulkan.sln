@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VulkanTriangle", "VulkanTriangle\VulkanTriangle.vcxproj", "{311CD5DD-837B-4794-9652-5C6B64FC7ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Debug Work|x64 = Debug Work|x64
+		Release Work|x64 = Release Work|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Debug|x64.ActiveCfg = Debug|x64
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Debug|x64.Build.0 = Debug|x64
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Debug|x86.ActiveCfg = Debug|Win32
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Debug|x86.Build.0 = Debug|Win32
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Release|x64.ActiveCfg = Release|x64
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Release|x64.Build.0 = Release|x64
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Release|x86.ActiveCfg = Release|Win32
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Release|x86.Build.0 = Release|Win32
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Debug Work|x64.ActiveCfg = Debug Work|x64
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Debug Work|x64.Build.0 = Debug Work|x64
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Release Work|x64.ActiveCfg = Release Work|x64
+		{311CD5DD-837B-4794-9652-5C6B64FC7ABA}.Release Work|x64.Build.0 = Release Work|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A36FB2C5-805A-4F23-9ADE-0AF9FEBD95F5}
+	EndGlobalSection
+EndGlobal
